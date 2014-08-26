@@ -1,4 +1,6 @@
-thinkful
+thinkfully
 ========
 
-Thinkful Project
+Thinkful
+
+editing in any way i like.
